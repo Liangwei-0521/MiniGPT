@@ -40,7 +40,22 @@ Decoder(
 
 ### **Data**
 path: [text](src/dataset)
+example:
+```python
+{
+    "test": [
+      {"input": "They are discussing a", "label": "project"},
+      {"input": "She is preparing for the", "label": "interview"},
+      {"input": "He is waiting for the", "label": "bus"},
+      ……
+    ]
+  }
+  
+```
 
 ### **Generate**
 
-<video controls src="image\README\video.mp4" title="Title"></vi
+<video controls="controls" width="640">
+  <source src="https://github.com/username/repo/raw/main/path/to/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
