@@ -1,11 +1,6 @@
 # MiniGPT: 手把手教你实现
 
-Introduction
-
-![1725980610601](image/README/GPT.png)
-
 ### Token
-
 * tokenization : tokenizer.model
 
 ### **Embedding**
@@ -55,7 +50,6 @@ example:
 
 ### **Generate**
 
-<video controls="controls" width="640">
-  <source src="https://github.com/Liangwei-0521/MiniGPT/blob/master/image/README/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.image/README
-</video>
+
+![image](https://github.com/user-attachments/assets/dc88c66a-368b-49cf-8020-7a7816683c49)
+
