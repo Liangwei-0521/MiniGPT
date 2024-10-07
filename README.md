@@ -34,7 +34,7 @@ Decoder(
 ```
 
 ### **Data**
-path: [text](src/dataset)
+path: [text](src/dataset) <br>
 example:
 ```python
 {
