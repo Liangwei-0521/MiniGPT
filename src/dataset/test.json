@@ -1,0 +1,25 @@
+{
+    "test": [
+      {"input": "They are discussing a", "label": "project"},
+      {"input": "She is preparing for the", "label": "interview"},
+      {"input": "He is waiting for the", "label": "bus"},
+      {"input": "We are planting a", "label": "garden"},
+      {"input": "She is organizing her", "label": "schedule"},
+      {"input": "I need to water the", "label": "plants"},
+      {"input": "They are designing a new", "label": "building"},
+      {"input": "He is baking a", "label": "cake"},
+      {"input": "We are learning about", "label": "history"},
+      {"input": "She is creating a", "label": "sculpture"},
+      {"input": "He is looking for his", "label": "wallet"},
+      {"input": "The moon is", "label": "shining"},
+      {"input": "We are fixing the", "label": "car"},
+      {"input": "He is helping his", "label": "friend"},
+      {"input": "She is preparing a", "label": "presentation"},
+      {"input": "They are learning how to", "label": "cook"},
+      {"input": "I need to finish my", "label": "homework"},
+      {"input": "He is explaining the", "label": "process"},
+      {"input": "She is planning her", "label": "vacation"},
+      {"input": "We are organizing a", "label": "party"}
+    ]
+  }
+  
