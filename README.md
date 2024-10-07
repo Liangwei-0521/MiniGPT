@@ -56,6 +56,6 @@ example:
 ### **Generate**
 
 <video controls="controls" width="640">
-  <source src="https://github.com/username/repo/raw/main/path/to/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github.com/Liangwei-0521/MiniGPT/blob/master/image/README/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.image/README
 </video>
